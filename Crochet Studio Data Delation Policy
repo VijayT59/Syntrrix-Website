@@ -1,0 +1,209 @@
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Data Deletion Request | Crochet Studio</title>
+
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+
+<style>
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+    font-family:'Poppins',sans-serif;
+}
+
+body{
+    background:#f8faf8;
+    color:#444;
+    line-height:1.8;
+}
+
+header{
+    background:linear-gradient(135deg,#4CAF50,#66BB6A,#81C784);
+    color:#fff;
+    text-align:center;
+    padding:70px 20px;
+}
+
+header h1{
+    font-size:40px;
+    margin-bottom:10px;
+}
+
+.container{
+    max-width:900px;
+    margin:40px auto;
+    background:#fff;
+    padding:40px;
+    border-radius:12px;
+    box-shadow:0 8px 25px rgba(0,0,0,.08);
+}
+
+h2{
+    color:#2E7D32;
+    margin:30px 0 15px;
+}
+
+p{
+    margin-bottom:15px;
+}
+
+ul{
+    margin-left:25px;
+    margin-bottom:20px;
+}
+
+form{
+    margin-top:30px;
+}
+
+label{
+    display:block;
+    margin-top:20px;
+    margin-bottom:8px;
+    font-weight:600;
+}
+
+input,
+textarea{
+    width:100%;
+    padding:12px;
+    border:1px solid #ccc;
+    border-radius:8px;
+    font-size:15px;
+}
+
+textarea{
+    min-height:120px;
+    resize:vertical;
+}
+
+button{
+    margin-top:25px;
+    background:#2E7D32;
+    color:#fff;
+    border:none;
+    padding:14px 30px;
+    border-radius:8px;
+    font-size:16px;
+    cursor:pointer;
+}
+
+button:hover{
+    background:#1B5E20;
+}
+
+.notice{
+    background:#E8F5E9;
+    border-left:5px solid #2E7D32;
+    padding:15px;
+    border-radius:6px;
+    margin:20px 0;
+}
+
+footer{
+    margin-top:50px;
+    background:#2E7D32;
+    color:#fff;
+    text-align:center;
+    padding:20px;
+}
+
+@media(max-width:768px){
+
+.container{
+    margin:20px;
+    padding:25px;
+}
+
+header h1{
+    font-size:30px;
+}
+
+}
+</style>
+
+</head>
+<body>
+
+<header>
+<h1>Data Deletion Request</h1>
+<p>Crochet Studio</p>
+</header>
+
+<div class="container">
+
+<p>
+At <strong>Crochet Studio</strong>, we respect your privacy. If you would like us to delete your personal information from our systems, you can submit a request using the form below.
+</p>
+
+<div class="notice">
+<strong>Important:</strong> After your request is verified, we will permanently delete your eligible personal information unless we are required to retain certain data for legal, tax, fraud prevention, or order-related obligations.
+</div>
+
+<h2>Information That May Be Deleted</h2>
+
+<ul>
+<li>Your customer account.</li>
+<li>Personal profile information.</li>
+<li>Saved addresses.</li>
+<li>Marketing preferences.</li>
+<li>Newsletter subscriptions.</li>
+<li>Support request history (where legally permitted).</li>
+</ul>
+
+<h2>Information We May Retain</h2>
+
+<ul>
+<li>Completed order records required for accounting or tax purposes.</li>
+<li>Information required to comply with applicable laws.</li>
+<li>Fraud prevention and security records.</li>
+</ul>
+
+<h2>Request Data Deletion</h2>
+
+<form action="#" method="post">
+
+<label>Full Name</label>
+<input type="text" name="name" required>
+
+<label>Email Address</label>
+<input type="email" name="email" required>
+
+<label>Phone Number (Optional)</label>
+<input type="tel" name="phone">
+
+<label>Reason for Deletion (Optional)</label>
+<textarea name="reason"></textarea>
+
+<button type="submit">Submit Request</button>
+
+</form>
+
+<h2>Processing Time</h2>
+
+<p>
+We aim to process verified data deletion requests within <strong>30 days</strong>. Additional time may be required where permitted by applicable law.
+</p>
+
+<h2>Contact Us</h2>
+
+<p>
+<strong>Crochet Studio</strong><br>
+Email: hello@crochetstudio.com<br>
+Phone: +91 XXXXXXXXXX
+</p>
+
+</div>
+
+<footer>
+© 2026 Crochet Studio. All Rights Reserved.
+</footer>
+
+</body>
+</html>
+```
