@@ -1,0 +1,199 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Data Deletion Instructions">
+    <meta name="robots" content="index, follow">
+    <title>Data Deletion Request</title>
+
+    <style>
+        *{
+            margin:0;
+            padding:0;
+            box-sizing:border-box;
+        }
+
+        body{
+            font-family:Arial, Helvetica, sans-serif;
+            background:#f5f7fa;
+            color:#333;
+            line-height:1.8;
+        }
+
+        header{
+            background:#0d6efd;
+            color:#fff;
+            padding:30px 20px;
+            text-align:center;
+        }
+
+        .container{
+            max-width:1000px;
+            margin:40px auto;
+            background:#fff;
+            padding:40px;
+            border-radius:10px;
+            box-shadow:0 5px 20px rgba(0,0,0,.08);
+        }
+
+        h1{
+            margin-bottom:10px;
+        }
+
+        h2{
+            margin-top:35px;
+            margin-bottom:10px;
+            color:#0d6efd;
+        }
+
+        p{
+            margin-bottom:15px;
+        }
+
+        ul{
+            margin-left:20px;
+            margin-bottom:15px;
+        }
+
+        li{
+            margin-bottom:8px;
+        }
+
+        a{
+            color:#0d6efd;
+            text-decoration:none;
+        }
+
+        a:hover{
+            text-decoration:underline;
+        }
+
+        .last-updated{
+            color:#666;
+            font-size:15px;
+            margin-top:10px;
+        }
+
+        .email-box{
+            background:#f1f5ff;
+            border-left:5px solid #0d6efd;
+            padding:15px;
+            margin-top:20px;
+            border-radius:5px;
+        }
+
+        footer{
+            text-align:center;
+            padding:25px;
+            background:#222;
+            color:#fff;
+            margin-top:40px;
+        }
+
+        @media(max-width:768px){
+            .container{
+                margin:20px;
+                padding:25px;
+            }
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Data Deletion Request</h1>
+    <p>Request the deletion of your personal data.</p>
+    <p class="last-updated">
+        Last Updated: January 1, 2026
+    </p>
+</header>
+
+<div class="container">
+
+    <h2>1. Introduction</h2>
+
+    <p>
+        We respect your privacy and provide you with the ability to request
+        the deletion of your personal information that we have collected.
+        This page explains how you can submit a data deletion request.
+    </p>
+
+    <h2>2. Your Right to Delete Data</h2>
+
+    <p>
+        You have the right to request the deletion of your personal
+        information stored by our website or application, subject to
+        applicable legal obligations.
+    </p>
+
+    <h2>3. How to Request Data Deletion</h2>
+
+    <p>
+        To request deletion of your data, please send us an email containing
+        the following information:
+    </p>
+
+    <ul>
+        <li>Your Full Name</li>
+        <li>Your Registered Email Address</li>
+        <li>Your User ID (if applicable)</li>
+        <li>Reason for the deletion request (optional)</li>
+    </ul>
+
+    <div class="email-box">
+        <strong>Email:</strong> your@email.com
+    </div>
+
+    <h2>4. Processing Time</h2>
+
+    <p>
+        After receiving your request, we will verify your identity and
+        process your request within 30 days, unless a longer period is
+        required by applicable law.
+    </p>
+
+    <h2>5. Information That May Be Retained</h2>
+
+    <p>
+        Certain information may be retained where required for legal,
+        regulatory, fraud prevention, security, accounting, or other
+        legitimate business purposes.
+    </p>
+
+    <h2>6. Third-Party Services</h2>
+
+    <p>
+        If your information has been shared with trusted third-party
+        service providers, we will make reasonable efforts to notify
+        those providers of your deletion request where applicable.
+    </p>
+
+    <h2>7. Account Deletion</h2>
+
+    <p>
+        If you have an account with us, requesting deletion may permanently
+        remove your profile, account information, saved preferences,
+        and any associated content. This action may be irreversible.
+    </p>
+
+    <h2>8. Contact Us</h2>
+
+    <p>
+        If you have questions regarding your data or this deletion process,
+        please contact us using the information below.
+    </p>
+
+    <p>
+        <strong>Email:</strong> your@email.com<br>
+        <strong>Website:</strong> https://yourwebsite.com
+    </p>
+
+</div>
+
+<footer>
+    &copy; 2026 Your Website. All Rights Reserved.
+</footer>
+
+</body>
+</html>
