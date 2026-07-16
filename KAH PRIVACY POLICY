@@ -1,0 +1,272 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Privacy Policy">
+    <meta name="robots" content="index, follow">
+    <title>Privacy Policy</title>
+
+    <style>
+        *{
+            margin:0;
+            padding:0;
+            box-sizing:border-box;
+        }
+
+        body{
+            font-family:Arial, Helvetica, sans-serif;
+            background:#f5f7fa;
+            color:#333;
+            line-height:1.8;
+        }
+
+        header{
+            background:#0d6efd;
+            color:#fff;
+            padding:30px 20px;
+            text-align:center;
+        }
+
+        .container{
+            max-width:1000px;
+            margin:40px auto;
+            background:#fff;
+            padding:40px;
+            border-radius:10px;
+            box-shadow:0 5px 20px rgba(0,0,0,.08);
+        }
+
+        h1{
+            margin-bottom:10px;
+        }
+
+        h2{
+            margin-top:35px;
+            margin-bottom:10px;
+            color:#0d6efd;
+        }
+
+        p{
+            margin-bottom:15px;
+        }
+
+        ul{
+            margin-left:20px;
+            margin-bottom:15px;
+        }
+
+        li{
+            margin-bottom:8px;
+        }
+
+        a{
+            color:#0d6efd;
+            text-decoration:none;
+        }
+
+        a:hover{
+            text-decoration:underline;
+        }
+
+        .last-updated{
+            color:#666;
+            font-size:15px;
+            margin-top:10px;
+        }
+
+        footer{
+            text-align:center;
+            padding:25px;
+            background:#222;
+            color:#fff;
+            margin-top:40px;
+        }
+
+        @media(max-width:768px){
+            .container{
+                margin:20px;
+                padding:25px;
+            }
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Privacy Policy</h1>
+    <p>Your privacy is important to us.</p>
+    <p class="last-updated">
+        Last Updated: January 1, 2026
+    </p>
+</header>
+
+<div class="container">
+
+    <h2>1. Introduction</h2>
+
+    <p>
+        Welcome to our website. We respect your privacy and are committed to
+        protecting any personal information you provide while using our
+        services. This Privacy Policy explains what information we collect,
+        how we use it, and the choices you have regarding your data.
+    </p>
+
+    <h2>2. Information We Collect</h2>
+
+    <p>We may collect the following information:</p>
+
+    <ul>
+        <li>Name</li>
+        <li>Email Address</li>
+        <li>Phone Number</li>
+        <li>IP Address</li>
+        <li>Browser Information</li>
+        <li>Device Information</li>
+        <li>Cookies and Tracking Data</li>
+        <li>Usage Statistics</li>
+    </ul>
+
+    <h2>3. How We Use Your Information</h2>
+
+    <p>Your information may be used to:</p>
+
+    <ul>
+        <li>Provide our services.</li>
+        <li>Improve website performance.</li>
+        <li>Respond to inquiries.</li>
+        <li>Process transactions.</li>
+        <li>Send updates and notifications.</li>
+        <li>Prevent fraud and abuse.</li>
+        <li>Maintain website security.</li>
+        <li>Comply with legal obligations.</li>
+    </ul>
+
+    <h2>4. Cookies</h2>
+
+    <p>
+        Our website uses cookies to improve user experience, remember
+        preferences, analyze traffic, and personalize content. You may
+        disable cookies through your browser settings; however, some
+        features may not function correctly.
+    </p>
+
+    <h2>5. Third-Party Services</h2>
+
+    <p>
+        We may use third-party services such as analytics providers,
+        advertising partners, payment processors, and cloud hosting
+        providers. These services may collect information in accordance
+        with their own privacy policies.
+    </p>
+
+    <h2>6. Google AdSense</h2>
+
+    <p>
+        Our website may display advertisements served by Google AdSense.
+        Google may use cookies, including the DoubleClick cookie, to
+        provide personalized advertisements based on your visits to this
+        website and other websites.
+    </p>
+
+    <p>
+        Users can opt out of personalized advertising by visiting the
+        Google Ads Settings page.
+    </p>
+
+    <h2>7. Google Analytics</h2>
+
+    <p>
+        We may use Google Analytics to understand how visitors interact
+        with our website. Google Analytics collects anonymous information
+        such as pages visited, time spent on the website, browser type,
+        and device information.
+    </p>
+
+    <h2>8. Data Sharing</h2>
+
+    <p>
+        We do not sell your personal information. We may share your data
+        only when necessary with:
+    </p>
+
+    <ul>
+        <li>Trusted service providers.</li>
+        <li>Payment providers.</li>
+        <li>Legal authorities if required by law.</li>
+        <li>Business partners assisting our services.</li>
+    </ul>
+
+    <h2>9. Data Security</h2>
+
+    <p>
+        We implement appropriate security measures to protect your
+        information against unauthorized access, disclosure, alteration,
+        or destruction. However, no internet transmission is completely
+        secure.
+    </p>
+
+    <h2>10. Data Retention</h2>
+
+    <p>
+        We retain personal information only as long as necessary to
+        fulfill the purposes described in this policy or as required by
+        law.
+    </p>
+
+    <h2>11. Children's Privacy</h2>
+
+    <p>
+        Our website is not intended for children under the age of 13.
+        We do not knowingly collect personal information from children.
+        If you believe a child has provided information, please contact
+        us for its removal.
+    </p>
+
+    <h2>12. Your Rights</h2>
+
+    <p>You may have the right to:</p>
+
+    <ul>
+        <li>Access your data.</li>
+        <li>Correct inaccurate information.</li>
+        <li>Request deletion of your information.</li>
+        <li>Withdraw consent.</li>
+        <li>Object to processing.</li>
+        <li>Request data portability where applicable.</li>
+    </ul>
+
+    <h2>13. External Links</h2>
+
+    <p>
+        Our website may contain links to third-party websites. We are not
+        responsible for the privacy practices or content of those sites.
+    </p>
+
+    <h2>14. Changes to This Privacy Policy</h2>
+
+    <p>
+        We may update this Privacy Policy from time to time. Changes will
+        be posted on this page along with the updated revision date.
+    </p>
+
+    <h2>15. Contact Us</h2>
+
+    <p>
+        If you have any questions regarding this Privacy Policy, please
+        contact us:
+    </p>
+
+    <p>
+        <strong>Email:</strong> your@email.com<br>
+        <strong>Website:</strong> https://yourwebsite.com
+    </p>
+
+</div>
+
+<footer>
+    &copy; 2026 Your Website. All Rights Reserved.
+</footer>
+
+</body>
+</html>
